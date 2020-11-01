@@ -1,0 +1,19 @@
+body {
+    margin: 2%;
+}
+
+.task-cover {
+    display: flex;
+    padding: 1%;
+    flex-wrap: wrap;
+    margin-bottom: 1%;
+}
+
+.dlt-btn {
+    float: right;
+}
+
+.task-item {
+    font-size: 22px;
+    padding-right: 10%;
+}
